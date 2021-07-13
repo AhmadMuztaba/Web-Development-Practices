@@ -1,0 +1,6 @@
+.singleVideo-item{
+cursor: pointer;
+}
+.singleVideo-item.item img{
+    max-width: 180px;
+}
